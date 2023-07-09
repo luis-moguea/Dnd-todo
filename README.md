@@ -47,7 +47,7 @@ To run this project, just clone this repository from Github and run it locally u
    npm run dev
 ```
 
-![General view](https://github.com/luis-moguea/languages-dnd/blob/main/src/assets/lang-desk.png?raw=true)
-![General view](https://github.com/luis-moguea/languages-dnd/blob/main/src/assets/lang-mov-1.png?raw=true)
+![General view](https://github.com/luis-moguea/Dnd-todo/blob/main/src/assets/todo-desk.png?raw=true)
+![General view](https://github.com/luis-moguea/Dnd-todo/blob/main/src/assets/todo-mov.png?raw=true)
 
 
