@@ -32,7 +32,7 @@ To run this project, just clone this repository from Github and run it locally u
 ### Clone the repository
 
 ```bash
-   git clone git@github.com:luis-moguea/languages-dnd.git
+   git clone git@github.com:luis-moguea/dnd-todo.git
 ```
 
 ### Install dependencies
